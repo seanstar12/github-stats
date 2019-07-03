@@ -1,0 +1,12 @@
+{
+  "name": "Github-Stats",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "events": "^3.0.0",
+    "promise": "^8.0.3",
+    "request": "^2.88.0"
+  }
+}
